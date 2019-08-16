@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6430a285-33d1-4826-9322-6b919a782a12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo04ArrayUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo05ArrayUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05-code/src/cn/isearch/dome02/Demo01ArrayOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day05-code/src/cn/isearch/dome02/Demo02ArrayTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,44 +22,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo01Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="209">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo02Array.java">
+        <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome02/Demo01ArrayOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo03Array.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo04ArrayUse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="19">
+              <caret line="4" selection-start-line="4" selection-end-line="16" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo05ArrayUse.java">
+        <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome02/Demo02ArrayTwo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+            <state relative-caret-position="342">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -92,6 +75,9 @@
         <option value="$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo03Array.java" />
         <option value="$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo04ArrayUse.java" />
         <option value="$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo05ArrayUse.java" />
+        <option value="$PROJECT_DIR$/../day05-code/src/cn/isearch/dome02/Demo01ArrayOne.java" />
+        <option value="$PROJECT_DIR$/../day05-code/src/cn/isearch/dome02/Demo01ArrayTwo.java" />
+        <option value="$PROJECT_DIR$/../day05-code/src/cn/isearch/dome02/Demo02ArrayTwo.java" />
       </list>
     </option>
   </component>
@@ -107,7 +93,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,12 +109,20 @@
               <item name="day04" type="b2602c69:ProjectViewProjectNode" />
               <item name="day05-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dome01" type="462c0819:PsiDirectoryNode" />
+              <item name="isearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day05-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="isearch" type="462c0819:PsiDirectoryNode" />
+              <item name="dome02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -142,7 +135,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.isearch.dome02" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,13 +154,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo05ArrayUse">
-    <configuration name="Demo01Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.isearch.dome01.Demo01Array" />
+  <component name="RunManager" selected="Application.Demo02ArrayTwo">
+    <configuration name="Demo01ArrayOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.isearch.dome02.Demo01ArrayOne" />
       <module name="day05-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.isearch.dome01.*" />
+          <option name="PATTERN" value="cn.isearch.dome02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.isearch.dome01.Demo02Array" />
+    <configuration name="Demo02ArrayTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.isearch.dome02.Demo02ArrayTwo" />
       <module name="day05-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.isearch.dome01.*" />
+          <option name="PATTERN" value="cn.isearch.dome02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo02ArrayTwo" />
+        <item itemvalue="Application.Demo01ArrayOne" />
         <item itemvalue="Application.Demo05ArrayUse" />
         <item itemvalue="Application.Demo04ArrayUse" />
         <item itemvalue="Application.Demo03Array" />
-        <item itemvalue="Application.Demo02Array" />
-        <item itemvalue="Application.Demo01Array" />
       </list>
     </recent_temporary>
   </component>
@@ -259,6 +257,7 @@
       <workItem from="1565601853696" duration="782000" />
       <workItem from="1565796445855" duration="631000" />
       <workItem from="1565856689702" duration="3622000" />
+      <workItem from="1565922634002" duration="3438000" />
     </task>
     <task id="LOCAL-00001" summary="更新项目">
       <created>1565588522835</created>
@@ -271,12 +270,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22883000" />
+    <option name="totallyTimeSpent" value="26321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1732224" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17549168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -285,7 +285,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30983606" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30983606" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -394,38 +394,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo01Array.java">
+    <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo05ArrayUse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo02Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo03Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo04ArrayUse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo05ArrayUse.java">
+    <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo03Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        <state relative-caret-position="275">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo02Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome01/Demo01Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome02/Demo01ArrayOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" selection-start-line="4" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/dome02/Demo02ArrayTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
         </state>
       </provider>
     </entry>
