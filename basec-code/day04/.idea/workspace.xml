@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6430a285-33d1-4826-9322-6b919a782a12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day05-code/src/cn/isearch/demo03/Demo04ArrayRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05-code/src/cn/isearch/demo03/Demo05ArrayMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05-code/src/cn/isearch/demo03/Demo05ArrayMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05-code/src/cn/isearch/demo03/Demo06ArrayReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05-code/src/cn/isearch/demo04/Demo01ArrayParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day05-code/src/cn/isearch/demo04/Demo02ArrayReturn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day05-code/src/cn/isearch/demo03/Demo03ArrayLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day05-code/src/cn/isearch/demo03/Demo03ArrayLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,35 +18,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/demo03/Demo06ArrayReverse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/demo04/Demo01ArrayParam.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="16" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/demo04/Demo02ArrayReturn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -109,37 +77,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="day04" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day05-code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="day04" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day05-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="day04" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day05-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="isearch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="day04" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day05-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="isearch" type="462c0819:PsiDirectoryNode" />
-              <item name="demo04" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,6 +217,7 @@
       <workItem from="1565922634002" duration="3438000" />
       <workItem from="1565947244481" duration="826000" />
       <workItem from="1565966319329" duration="9393000" />
+      <workItem from="1566137607204" duration="74000" />
     </task>
     <task id="LOCAL-00001" summary="更新项目">
       <created>1565588522835</created>
@@ -296,12 +237,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36540000" />
+    <option name="totallyTimeSpent" value="36614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17963752" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18123667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -517,10 +458,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/demo03/Demo06ArrayReverse.java">
+    <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/demo04/Demo02ArrayReturn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        <state relative-caret-position="171">
+          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -531,10 +472,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/demo04/Demo02ArrayReturn.java">
+    <entry file="file://$PROJECT_DIR$/../day05-code/src/cn/isearch/demo03/Demo06ArrayReverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="23" />
+        <state relative-caret-position="133">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
         </state>
       </provider>
     </entry>
