@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5336214d-f387-4bf8-9d04-59cc69f20842" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07-code/day07-code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/isearch/demo01/Demo01Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/isearch/demo01/Demo02ScannerSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/isearch/demo01/Demo03ScannerMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/isearch/demo02/Demo01Anonymous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/isearch/demo02/Demo02Anonymous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/isearch/demo02/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/isearch/demo03/Demo01Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07-code/src/cn/isearch/demo03/Demo02Random.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -18,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -38,8 +48,8 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -58,10 +68,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo01ArrayOne">
-    <configuration name="Demo01ArrayIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.isearch.demo03.Demo01ArrayIndex" />
-      <module name="day05-code" />
+  <component name="RunManager" selected="Application.Demo02Random">
+    <configuration name="Demo01Anonymous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.isearch.demo02.Demo01Anonymous" />
+      <module name="day07-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.isearch.demo02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.isearch.demo03.Demo01Random" />
+      <module name="day07-code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.isearch.demo03.*" />
@@ -72,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01ArrayOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.isearch.dome02.Demo01ArrayOne" />
-      <module name="day05-code" />
+    <configuration name="Demo02Anonymous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.isearch.demo02.Demo02Anonymous" />
+      <module name="day07-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.isearch.dome02.*" />
+          <option name="PATTERN" value="cn.isearch.demo02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.isearch.demo04.Demo01Person" />
-      <module name="day06-code" />
+    <configuration name="Demo02Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.isearch.demo03.Demo02Random" />
+      <module name="day07-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.isearch.demo04.*" />
+          <option name="PATTERN" value="cn.isearch.demo03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,25 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.isearch.demo5.Demo01Student" />
-      <module name="day06-code" />
+    <configuration name="Demo03ScannerMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.isearch.demo01.Demo03ScannerMax" />
+      <module name="day07-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.isearch.demo5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo02Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.isearch.demo04.Demo02Student" />
-      <module name="day06-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.isearch.demo04.*" />
+          <option name="PATTERN" value="cn.isearch.demo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo01ArrayOne" />
-        <item itemvalue="Application.Demo01Student" />
-        <item itemvalue="Application.Demo01ArrayIndex" />
-        <item itemvalue="Application.Demo02Student" />
-        <item itemvalue="Application.Demo01Person" />
+        <item itemvalue="Application.Demo02Random" />
+        <item itemvalue="Application.Demo01Random" />
+        <item itemvalue="Application.Demo02Anonymous" />
+        <item itemvalue="Application.Demo01Anonymous" />
+        <item itemvalue="Application.Demo03ScannerMax" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +167,18 @@
       <workItem from="1575363207819" duration="20000" />
       <workItem from="1575363251018" duration="23000" />
       <workItem from="1575363328314" duration="164000" />
+      <workItem from="1577672475834" duration="7000" />
+      <workItem from="1578290053706" duration="954000" />
+      <workItem from="1578296468553" duration="99000" />
+      <workItem from="1578296570673" duration="80000" />
+      <workItem from="1578296666282" duration="1687000" />
+      <workItem from="1579077887005" duration="630000" />
+      <workItem from="1579272174753" duration="222000" />
+      <workItem from="1580974273869" duration="599000" />
+      <workItem from="1583723202656" duration="16000" />
+      <workItem from="1583773442743" duration="5221000" />
+      <workItem from="1583785487074" duration="6000" />
+      <workItem from="1583804618400" duration="7273000" />
     </task>
     <servers />
   </component>
